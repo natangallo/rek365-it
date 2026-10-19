@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/.well-known/com.apple.remotemanagement",
+      "destination": "/api/remotemanagement"
+    }
+  ]
+}
