@@ -1,0 +1,8 @@
+include:
+  - .well-known
+
+defaults:
+  - scope:
+      path: ".well-known/com.apple.remotemanagement"
+    values:
+      layout: null
